@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Space+Grotesk:wght@300..700&display=swap');
+*{ font-family: "Space Grotesk", sans-serif;}
+
+.register-container{
+  background-image: url(./assets/bgperfume.png);
+}
+.main-color-bg {
+  background-color: #8D34FF;
+  color: white;
+;
+}
+.login-bg-color {
+  background-color:#E6D2FF;
+  color: #8D34FF;
+}
+.main-color{
+  color: #8D34FF;
+}
+
+.cart1 { 
+  font-family: "Space Grotesk", sans-serif;
+}
+.cartitemcontainer{
+  border: 1px solid black;
+}
+.removebtn{
+border: 1px solid red;
+color: red;
+}
+#btn1{
+ background-color: #8D34FF;
+ color: white;
+ 
+}
+.or{
+  text-align: center;
+  margin-top: 30px;
+}
+#btn2{
+  width: 100%;
+  border-radius: 8px;
+  padding: 10px;
+}
+#sign{
+  color: #8D34FF;
+}
+
+  
